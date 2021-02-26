@@ -40,8 +40,20 @@
     
 <script>
     $(document).ready(function() {
-         $("#right,#center").hide();
+         
+         $("#btn").click(function(){
+          
+            $("#right,#center").hide();
+
+         });
+
+         $("#btns").click(function(){
+            $("#right,#center").show();
+         });
     });
+
+
+
 </script>
 
 </head>
@@ -55,6 +67,7 @@
 
     </div>
 
+
      <div id="center">
           <h2>center</h2>
         <p> 
@@ -63,12 +76,24 @@
      </div>
 
 
+
     <div id="right">
         <h2>Right</h2>
     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, 
         and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</p>
     </div>
 
-    
+
+</br>
+    <h2>HIT!!</h2>
+    <div id="test">
+        <button id="btn">Hide</button>
+    </div>
+
+
+    <div id="show">
+        <button id="btns">Show</button>
+    </div>
+
 </body>
 </html>
