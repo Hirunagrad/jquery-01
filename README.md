@@ -21,6 +21,7 @@ add newly
 tommorrow after dayon exam day,i am feeling now exited 
 i neeed to do programming.but my degree contain with business modeles.i am angry with that.
 tommorrow after dayon exam day,i am feeling now exited 
-i neeed to do programming.but my degree contain with business modeles.i am angry with that.
+i neeed to do programming.but my degree contain with business modeles.i am angry with
+ that. that.
 
 
