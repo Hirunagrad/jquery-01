@@ -23,5 +23,7 @@ i neeed to do programming.but my degree contain with business modeles.i am angry
 tommorrow after dayon exam day,i am feeling now exited 
 i neeed to do programming.but my degree contain with business modeles.i am angry with
  that. that.g
+ i neeed to do programming.but my degree contain with business modeles.i am angry with
+ that. that.g
 
 
